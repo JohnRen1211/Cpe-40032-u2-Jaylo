@@ -1,0 +1,5 @@
+Name:John Rengel O. Jaylo
+Section:BSCOE 2-1
+Youtube link: https://youtu.be/JjKsGIyFlEI
+Repository:https://github.com/JohnRen1211/Cpe-40032-u2-Jaylo.git
+Topic: Unity2: Basic gameplay
